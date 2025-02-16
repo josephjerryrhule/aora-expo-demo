@@ -26,7 +26,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.joseph.aora"
     },
     "android": {
       "adaptiveIcon": {
